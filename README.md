@@ -9,6 +9,9 @@ The Trade AI is an AI-powered cryptocurrency trading system that automates tradi
 ## video Demo
 https://drive.google.com/file/d/1dos1OfdyV54LxVFZ0UCWk2DqgJmDYIid/view?usp=sharing
 
+## sponser used:
+Spectral: Let the agent decide: Using LLM driven systems for onchain trading decisions
+
 ## How it Works:
 
 ![image](https://github.com/user-attachments/assets/dcea2744-cf3f-4dcc-a39e-adc6b4a82cdd)
