@@ -35,6 +35,12 @@ Spectral: Let the agent decide: Using LLM driven systems for onchain trading dec
 Example chart of fetched OHLCV data is ploted:
 ![image](https://github.com/user-attachments/assets/c0fa1a11-c9ea-4b61-b141-db95b8e8ee54)
 
+
+Example Resoponse from Trade AI LLM:
+![image](https://github.com/user-attachments/assets/4d9ad771-d8cc-4acf-8c9d-27496da15833)
+
+As you can see in image. it didn't suggested any trade as per anyalsis. It also provided the reasoning.
+
 ## Code Explanation
 
 ### Step 1: Fetch Latest News Data from Tavily
