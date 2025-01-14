@@ -32,6 +32,9 @@ Spectral: Let the agent decide: Using LLM driven systems for onchain trading dec
 4. **Execution**:
    - If a valid trade is identified, the trade is executed on Hyperliquid with optimal entry, stop-loss, and take-profit levels.
 
+Example chart of fetched OHLCV data is ploted:
+![image](https://github.com/user-attachments/assets/c0fa1a11-c9ea-4b61-b141-db95b8e8ee54)
+
 ## Code Explanation
 
 ### Step 1: Fetch Latest News Data from Tavily
